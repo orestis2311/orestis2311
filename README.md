@@ -20,7 +20,7 @@ I'm a Computer Science student at **RWTH Aachen University**, passionate about s
 
 ### 📫 Connect With Me
 
-- 🌐 **Portfolio:** [orestisg.com](https://orestisg.com)
+- 🌐 **Personal Website:** [orestisg.com](https://orestisg.com)
 - 💼 **LinkedIn:** [Orestis Georgiou](https://www.linkedin.com/in/orestis-georgiou-37b9a7445/)
 
 ---
