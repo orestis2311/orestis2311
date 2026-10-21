@@ -1,8 +1,6 @@
 # Hi, I'm Orestis Georgiou 👋
 
-I'm a Computer Science student at **RWTH Aachen University**, with a strong interest in software engineering, artificial intelligence, and software architecture.
-
-I enjoy designing and building reliable software that solves complex, real-world problems.
+I'm a Computer Science student at **RWTH Aachen University**, passionate about software engineering, artificial intelligence, and building reliable software systems.
 
 ### 🔭 Current Focus
 
@@ -12,16 +10,18 @@ I enjoy designing and building reliable software that solves complex, real-world
 
 ### 🛠️ Technologies & Tools
 
-**Languages:** Python · Java · C · C++ · JavaScript · SQL
+- **Programming Languages:** Python · Java · C · C++ · JavaScript
+- **Databases:** SQL
+- **Development Tools:** Git · Linux · VS Code
 
-**Development:** Git · Linux · VS Code
+### 🚀 Featured Projects
 
-**Areas of Interest:** Software Engineering · AI/LLMs · Software Architecture · Cyber-Physical Systems
+*Projects will be added here as they become publicly available.*
 
 ### 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/orestis-georgiou-37b9a7445/)
-- [GitHub](https://github.com/orestis2311)
+- 🌐 **Portfolio:** [Personal Website](YOUR_PORTFOLIO_URL)
+- 💼 **LinkedIn:** [Orestis Georgiou](https://www.linkedin.com/in/orestis-georgiou-37b9a7445/)
 
 ---
 
